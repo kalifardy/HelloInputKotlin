@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">HelloKotlin</string>
+    <string name="hello_kotlin">Hello Kotlin</string>
+    <string name="input">Input</string>
+    <string name="output">Output</string>
+</resources>
